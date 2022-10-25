@@ -14,10 +14,13 @@
 To get a local copy up and running follow these simple example steps.
 
 1. Clone this repository or download the Zip folder:
+
 **``git clone https://github.com/rbhatt1999/Hello-Microverse.git``**
 
 2. Navigate to the location of the folder in your machine:
+
 **``you@your-Pc-name:~$ cd <folder>``**
+
 ### Visit And Open Files
 Visit Repo
 [Visit Repo](https://github.com/rbhatt1999/Hello-Microverse)
